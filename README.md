@@ -1,0 +1,2 @@
+# SUPORTE.md
+Obter suporte
